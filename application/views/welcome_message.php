@@ -18,7 +18,7 @@
 
 <!--*************************  START  DISPLAY ALL THE RECODEDS *************************-->
         <table class="table table-bordered table-hover table-striped" >
-        wheres
+
             <thead>
             <tr>
                 <th>No.</th>
